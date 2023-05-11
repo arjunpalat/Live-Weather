@@ -14,6 +14,25 @@ body{
     background: linear-gradient(rgb(0, 123, 255),green);
 }
 
+.instructions{
+    height: 500px;
+    position: absolute;
+    font-size: 20px;
+    text-align: center;
+    color: #dff6ff;
+    font-family: 'Roboto', sans-serif;
+}
+
+#instructions-locdot1{
+    color: red;
+    font-size: 30px;
+}
+
+#instructions-locdot2{
+    color: green;
+    font-size: 30px;
+}
+
 .container{
     position: relative;
     width: 400px;
